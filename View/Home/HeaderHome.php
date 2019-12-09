@@ -5,7 +5,7 @@
 
         <!--logo-->
         <div class="logo" id="header-logo">
-            <img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png" href-click="{{Route::Redirect('/')}}">
+            <img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png" href-click="{{YUH_URI_ROOT}}">
         </div>
 
         <!--Avatar người dùng và Menu-->
