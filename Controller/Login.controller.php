@@ -128,6 +128,7 @@
                 Javascript::InvokeScript("swal('Thông báo', 'Đăng nhập thành công!', 'success')");
                 Javascript::InvokeRedirect("{$GLOBALS['YUH_URI_ROOT']}", 1500);
             }
+            Route::Redirect('/');
             $this->render("Đăng nhập");
         }
 
