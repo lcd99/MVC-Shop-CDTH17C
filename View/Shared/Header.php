@@ -13,7 +13,7 @@
 
         <!--logo-->
         <div class="logo" id="header-logo">
-        <a href="{{YUH_URI_ROOT}}"><img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png"></a>
+        <img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png" href-click="{{YUH_URI_ROOT}}">
         </div>
 
         <!--Avatar người dùng và Menu-->
