@@ -6,7 +6,7 @@
 
         <!--logo-->
         <div class="logo" id="header-logo">
-            <a href="{{YUH_URI_ROOT}}"><img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png"></a>
+            <a href="https://anhsanggoi.herokuapp.com/"><img src="{{YUH_URI_ROOT}}/Resource/img/logo/3.png"></a>
         </div>
 
         <!--Avatar người dùng và Menu-->
